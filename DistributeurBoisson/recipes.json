@@ -1,0 +1,41 @@
+{
+    "Expresso": {
+        "Name": "Expresso",
+        "DosesPerIngredient": {
+            "Cafe": 1,
+            "Eau": 1
+        }
+    },
+    "Allonge": {
+        "Name": "Allonge",
+        "DosesPerIngredient": {
+            "Cafe": 1,
+            "Eau": 2
+        }
+    },
+    "Capuccino": {
+        "Name": "Capuccino",
+        "DosesPerIngredient": {
+            "Cafe": 1,
+            "Eau": 1,
+            "Chocolat" : 1,
+            "Creme" : 1
+        }
+    },
+    "Chocolat": {
+        "Name": "Chocolat",
+        "DosesPerIngredient": {
+            "Chocolat": 3,
+            "Lait": 2,
+            "Eau" : 1,
+            "Sucre" : 1
+        }
+    },
+    "The": {
+        "Name": "The",
+        "DosesPerIngredient": {
+            "The": 1,
+            "Eau": 2
+        }
+    }
+}
