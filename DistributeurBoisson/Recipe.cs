@@ -2,7 +2,7 @@ namespace DistributeurBoisson;
 
 public class Recipe
 {
-    public string Name { get; set; }
+    public string Name { get; set; } = "";
     public Dictionary<string, int> DosesPerIngredient { get; set; } = new();
 
     public double GetCost(Dictionary<string, double> costPerIngredient)
